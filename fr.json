@@ -24,7 +24,7 @@
     "A first name must be provided.": "Un prénom doit être inscrit.",
     "A last name must be provided.": "Un nom doit être inscrit.", 
     "Username or Email": "Nom d'utilisateur ou mail",
-    "PASSWORD": "Mot de passe",
+    "Password": "Mot de passe",
     "Forgot password?": "Mot de passe oublié ?",
     "Don't have an account?": "Vous n'avez pas de compte?",
     "Return to Login": "Retour à la page de connexion", 
